@@ -42,7 +42,6 @@ form.addEventListener('submit', e => {
         captionsData: 'alt',
         captionDelay: 250,
       });
-      console.log(lightbox.options);
     }
   });
 
